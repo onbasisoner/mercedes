@@ -1,0 +1,48 @@
+[
+  {
+    "key": "myAccount",
+    "value": "myAccount",
+    "type": "id"
+  },
+  {
+    "key": "acceptCookie",
+    "value": "onetrust-accept-btn-handler",
+    "type": "id"
+  },
+  {
+    "key": "myAccountLogged",
+    "value": "//a[title='Hesabım']",
+    "type": "xpath"
+  },
+  {
+    "key": "login",
+    "value": "login",
+    "type": "id"
+  },
+  {
+    "key": "searchBox",
+    "value": "//input[@placeholder='Ürün, kategori veya marka ara']",
+    "type": "xpath"
+  },
+  {
+    "key": "gotoBasket",
+    "value": "shoppingCart",
+    "type": "id"
+  },
+  {
+    "key": "goToMainPage",
+    "value": "//div[contains(@class,'sf-Logo')]",
+    "type": "xpath"
+  },
+  {
+    "key" : "logout",
+    "value" : "//a[contains(text(),'Çıkış Yap')]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "accountInfo",
+    "value" : "(//a[@title='Kullanıcı Bilgilerim'])[1]",
+    "type" : "xpath"
+  }
+
+]

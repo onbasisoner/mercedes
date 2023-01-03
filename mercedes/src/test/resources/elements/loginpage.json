@@ -1,0 +1,27 @@
+[
+  {
+    "key": "UserNameTextBox",
+    "value": "txtUserName",
+    "type": "id"
+  },
+  {
+    "key": "PasswordTextBox",
+    "value": "txtPassword",
+    "type": "id"
+  },
+  {
+    "key" : "LoginButton",
+    "value" : "btnLogin",
+    "type" : "id"
+  },
+  {
+    "key" : "LoginButtonPasswordPage",
+    "value" : "btnEmailSelect",
+    "type" : "name"
+  },
+  {
+    "key": "errorMessage",
+    "value": "//div[@type='ERROR']",
+    "type": "xpath"
+  }
+]

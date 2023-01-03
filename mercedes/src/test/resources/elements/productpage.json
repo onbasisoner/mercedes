@@ -1,0 +1,29 @@
+[
+  {
+    "key": "myAccount",
+    "value": "myAccount",
+    "type": "id"
+  },
+  {
+    "key": "firstProduct",
+    "value": "i0",
+    "type": "id"
+  },
+
+  {
+    "key": "thirdProduct",
+    "value": "i2",
+    "type": "id"
+  },
+
+  {
+    "key" : "addToBasketButton",
+    "value" : "//button[@data-test-id='product-info-button']",
+    "type" : "xpath"
+  },
+  {
+    "key" : "toastNotif",
+    "value" : "//div[@class='hb-toast-text']",
+    "type" : "xpath"
+  }
+]

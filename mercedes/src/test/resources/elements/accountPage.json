@@ -1,0 +1,17 @@
+[
+  {
+    "key" : "birthdaySelection",
+    "value" : "//input[@id='txtBirthDay']",
+    "type" : "xpath"
+  },
+  {
+    "key" : "updateButton",
+    "value" : "(//button[contains(text(),'Güncelle')])[1]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "logoutButton",
+    "value" : "//a[@class='customerAccount-StaticMenuItem-1gzgZ']",
+    "type" : "xpath"
+  }
+]

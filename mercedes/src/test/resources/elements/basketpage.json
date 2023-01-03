@@ -1,0 +1,17 @@
+[
+  {
+    "key" : "increaseFirstProductButton",
+    "value" : "(//a[contains(@class,'product_increase')])[1]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "toastNotif",
+    "value" : "//div[@class='hb-toast-text']",
+    "type" : "xpath"
+  },
+  {
+    "key" : "quantityofFirstProduct",
+    "value" : "(//input[@name='quantity'])[1]",
+    "type" : "xpath"
+  }
+]
